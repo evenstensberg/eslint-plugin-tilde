@@ -1,0 +1,16 @@
+{
+  "name": "@ev1stensberg/eslint-plugin-tilde",
+  "version": "1.0.0",
+  "main": "./index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "cd example; npm run test; cd .."
+  },
+  "keywords": [],
+  "author": "Even Stensberg <evenstensberg@gmail.com>",
+  "license": "MIT",
+  "description": "Replace indexOf with bitwise not",
+  "peerDependencies": {
+    "eslint": "^9.6.0"
+  }
+}

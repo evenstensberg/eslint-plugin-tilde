@@ -1,0 +1,17 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "main": "./index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "eslint ./index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@ev1stensberg/eslint-plugin-tilde": "file:..",
+    "eslint": "^9.6.0"
+  }
+}
